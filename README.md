@@ -125,3 +125,4 @@ This creates an optimized, minified production build in the `build/` directory r
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE)."# ShopVerse_WebApplication" 
+"# ShopVerse_WebApplication" 
